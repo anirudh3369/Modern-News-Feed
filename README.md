@@ -35,7 +35,7 @@ A modern, fast, and responsive news feed web application built using **React.js*
    ```sh
    npm run dev  # or yarn dev
    ```
-   
+
 ## 📁 Project Structure
 
 ```
@@ -86,4 +86,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username/)
+Made with ❤️ by [Anirudh](https://github.com/anirudh3369)
