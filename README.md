@@ -35,14 +35,7 @@ A modern, fast, and responsive news feed web application built using **React.js*
    ```sh
    npm run dev  # or yarn dev
    ```
-
-## 🔧 Configuration
-
-- Create a `.env` file in the root directory and add your news API key:
-  ```env
-  VITE_NEWS_API_KEY=your_api_key_here
-  ```
-
+   
 ## 📁 Project Structure
 
 ```
