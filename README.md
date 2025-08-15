@@ -14,8 +14,8 @@ A modern, fast, and responsive news feed web application built using **React.js*
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, TypeScript, Vite
-- **Styling**: Tailwind CSS / Styled Components
-- **API Handling**: Axios / Fetch API
+- **Styling**: Tailwind CSS
+- **API Handling**: Fetch API
 
 ## 📦 Installation
 
